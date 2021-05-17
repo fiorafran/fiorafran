@@ -1,5 +1,7 @@
 ## Hey, nice to see you 👋
 
+Welcome to my page!
+I'm Franco, Junior developer from Santa Fe, Argentina 🇦🇷
 <!--
 **fiorafran/fiorafran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
