@@ -16,7 +16,7 @@
 <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
-<p>I’m currently learning Python🐍, React.js, and making a chat room💻 (JavaScript only) in collaboration with <a href="https://github.com/nicojzzz" target="_blank">@nicojzzz</a>.</br>You can take a look at it 👉 <a href="https://fiorafran.github.io/Chat-proyecto/" target="_blank">here</a> 👈</p>
+<p>My portfolio 👉 [here](https://portfolio-v2-one-sigma.vercel.app/) 👈</p>
 
 <h3>Where to find me</h3>
 <a href="https://www.linkedin.com/in/franco-fioravanti/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
