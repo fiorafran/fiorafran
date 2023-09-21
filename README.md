@@ -16,7 +16,7 @@
 <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
-<p>My portfolio 👉 [here](https://portfolio-v2-one-sigma.vercel.app/) 👈</p>
+<p>My portfolio 👉 <a href="https://portfolio-v2-one-sigma.vercel.app/">here</a> 👈</p>
 
 <h3>Where to find me</h3>
 <a href="https://www.linkedin.com/in/franco-fioravanti/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
