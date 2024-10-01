@@ -1,6 +1,8 @@
 <h1>Hey, nice to see you<img alt="among" src="https://64.media.tumblr.com/7898d087981456a594c2313bbd7b93f3/087d23613b467308-c4/s500x750/2293a6c0d494ffa213a709eab0856304732cc1a7.gifv" width="60"/></h1>
 
-<p>Welcome to my page!</br>I'm Franco, developer from Rosaro, Santa Fe, Argentina 🇦🇷</p>
+<p>Welcome to my page!</br>I'm Franco, JavaScript Developer from Rosario, Santa Fe, Argentina 🇦🇷
+
+With a strong background in programming, I specialize in building efficient and scalable software. I'm skilled at working in a team, communicating, and collaborating effectively.</p>
 
 <h3>These are the technologies I work with: </h3>
 <p>
@@ -12,7 +14,6 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
@@ -21,7 +22,6 @@
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img alt="Invision" src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white" />
-<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 <img alt="Adobe PS" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 </p>
