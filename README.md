@@ -20,6 +20,9 @@ With a strong background in programming, I specialize in building efficient and 
 <img alt="Chakra ui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+<h3>These are *some of* the tools I use: </h3>
+<p>
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img alt="Invision" src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white" />
 <img alt="Adobe PS" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
